@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bheema0rwa4 and this is the blue-ray mobile repo 
+- 👋 Hi, I’m @heema0rwa4 and this is the blue-ray mobile repo 
 - 👀 I’m interested in providing useful software and mobile APPs to passionate clients
 - 🌱 I’m currently learning how to ship well-structured solutions using multiple platforms
 - 📫 How to reach me by email ibraheem.hema61@gmail.com
